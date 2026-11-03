@@ -1,0 +1,7 @@
+,,tau,tau,ece,ece,brier,brier
+,,mean,std,mean,std,mean,std
+k,temperature,,,,,,
+10,fixed tau = 10,10.0,0.0,0.101,0.062,0.159,0.049
+10,tau fitted on support (leave-one-out),8.516,6.659,0.086,0.056,0.154,0.044
+50,fixed tau = 10,10.0,0.0,0.061,0.023,0.107,0.017
+50,tau fitted on support (leave-one-out),5.594,1.159,0.042,0.021,0.104,0.013

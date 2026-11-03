@@ -1,0 +1,5 @@
+Dataset,Description,Role,Malignant,Normal,Total,Source
+1st,"OSCC, augmented from 1,224 originals",Development,2634,2494,5128,https://www.kaggle.com/datasets/ashenafifasilkebede/dataset
+2nd,"Multicancer set, oral subset",Development,2501,2501,5002,https://www.kaggle.com/datasets/maestroalert/cancer
+3rd,400x microscope fields,Development,9129,1035,10164,https://www.kaggle.com/datasets/mohitkumarhalder/oralnew
+4th,PatchCamelyon lymph node patches,External validation only,8225,11775,20000,https://www.kaggle.com/datasets/pankaj705/histopathologic-cancer-detection

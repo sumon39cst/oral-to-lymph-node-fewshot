@@ -1,0 +1,15 @@
+torch>=2.5
+torchvision>=0.20
+timm>=1.0.30
+transformers>=4.46,<5
+huggingface_hub
+einops
+h5py
+numpy
+pandas
+scikit-learn
+scipy
+pillow
+matplotlib
+umap-learn
+tqdm

@@ -1,0 +1,11 @@
+Dataset,Zip file,Folder(s) inside zip,Class,Images in zip,Paper Table 1,Used in experiment (matches paper text totals)
+1st,dataset1_oral_cancer_OSCC.zip,train+val+test / OSCC,Malignant,2698,2634,2698
+1st,dataset1_oral_cancer_OSCC.zip,train+val+test / Normal,Normal,2494,2494,2494
+2nd,dataset2_multicancer.zip,train+val+test / oral_scc,Malignant,5001,2501,5001
+2nd,dataset2_multicancer.zip,train+val+test / oral_normal,Normal,5001,2501,5001
+3rd,dataset3_OralNew.zip,Train+Test / wdoscc+mdoscc+pdoscc,Malignant,7061,9129,7061
+3rd,dataset3_OralNew.zip,Train+Test / osmf,OSMF (not used),2068,included in 9129,0
+3rd,dataset3_OralNew.zip,Train+Test / normal,Normal,1035,1035,1035
+TOTAL,,,Malignant,14760,14264,14760
+TOTAL,,,Normal,8530,6030,8530
+4th,dataset4_PatchCamelyon.zip,camelyonpatch_level_2_split_train_x.h5,Images only (no labels),262144 (inferred from file size),20000 sampled,cannot reproduce without labels

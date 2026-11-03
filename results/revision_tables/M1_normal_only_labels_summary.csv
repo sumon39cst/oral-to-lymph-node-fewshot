@@ -1,0 +1,118 @@
+encoder,method,k,mean,std
+convnextv2_tiny,direct transfer,0,0.417,
+convnextv2_tiny,one-class (distance from normal prototype),10,0.702,0.077
+convnextv2_tiny,one-class (distance from normal prototype),50,0.832,0.031
+convnextv2_tiny,one-class (distance from normal prototype),100,0.852,0.016
+convnextv2_tiny,one-class (distance from normal prototype),1000,0.877,0.004
+convnextv2_tiny,oral carcinoma vs target normals,10,0.618,0.038
+convnextv2_tiny,oral carcinoma vs target normals,50,0.709,0.02
+convnextv2_tiny,oral carcinoma vs target normals,100,0.713,0.015
+convnextv2_tiny,oral carcinoma vs target normals,1000,0.745,0.012
+convnextv2_tiny,source + target normals as extra negatives,10,0.578,0.035
+convnextv2_tiny,source + target normals as extra negatives,50,0.642,0.023
+convnextv2_tiny,source + target normals as extra negatives,100,0.635,0.023
+convnextv2_tiny,source + target normals as extra negatives,1000,0.655,0.002
+dinov2_base,direct transfer,0,0.545,
+dinov2_base,one-class (distance from normal prototype),10,0.63,0.11
+dinov2_base,one-class (distance from normal prototype),50,0.798,0.052
+dinov2_base,one-class (distance from normal prototype),100,0.821,0.036
+dinov2_base,one-class (distance from normal prototype),1000,0.851,0.012
+dinov2_base,oral carcinoma vs target normals,10,0.672,0.055
+dinov2_base,oral carcinoma vs target normals,50,0.783,0.026
+dinov2_base,oral carcinoma vs target normals,100,0.786,0.02
+dinov2_base,oral carcinoma vs target normals,1000,0.811,0.014
+dinov2_base,source + target normals as extra negatives,10,0.691,0.029
+dinov2_base,source + target normals as extra negatives,50,0.764,0.017
+dinov2_base,source + target normals as extra negatives,100,0.759,0.008
+dinov2_base,source + target normals as extra negatives,1000,0.792,0.005
+efficientnet_b0,direct transfer,0,0.436,
+efficientnet_b0,one-class (distance from normal prototype),10,0.618,0.08
+efficientnet_b0,one-class (distance from normal prototype),50,0.765,0.07
+efficientnet_b0,one-class (distance from normal prototype),100,0.798,0.06
+efficientnet_b0,one-class (distance from normal prototype),1000,0.842,0.028
+efficientnet_b0,oral carcinoma vs target normals,10,0.658,0.048
+efficientnet_b0,oral carcinoma vs target normals,50,0.755,0.017
+efficientnet_b0,oral carcinoma vs target normals,100,0.721,0.015
+efficientnet_b0,oral carcinoma vs target normals,1000,0.737,0.007
+efficientnet_b0,source + target normals as extra negatives,10,0.571,0.045
+efficientnet_b0,source + target normals as extra negatives,50,0.641,0.02
+efficientnet_b0,source + target normals as extra negatives,100,0.625,0.012
+efficientnet_b0,source + target normals as extra negatives,1000,0.636,0.009
+efficientnet_b0_96px,direct transfer,0,0.586,
+efficientnet_b0_96px,one-class (distance from normal prototype),10,0.642,0.086
+efficientnet_b0_96px,one-class (distance from normal prototype),50,0.793,0.06
+efficientnet_b0_96px,one-class (distance from normal prototype),100,0.814,0.048
+efficientnet_b0_96px,one-class (distance from normal prototype),1000,0.846,0.023
+efficientnet_b0_96px,oral carcinoma vs target normals,10,0.584,0.035
+efficientnet_b0_96px,oral carcinoma vs target normals,50,0.74,0.036
+efficientnet_b0_96px,oral carcinoma vs target normals,100,0.695,0.009
+efficientnet_b0_96px,oral carcinoma vs target normals,1000,0.748,0.003
+efficientnet_b0_96px,source + target normals as extra negatives,10,0.688,0.012
+efficientnet_b0_96px,source + target normals as extra negatives,50,0.751,0.027
+efficientnet_b0_96px,source + target normals as extra negatives,100,0.741,0.014
+efficientnet_b0_96px,source + target normals as extra negatives,1000,0.765,0.004
+mambavision_tiny,direct transfer,0,0.481,
+mambavision_tiny,one-class (distance from normal prototype),10,0.668,0.076
+mambavision_tiny,one-class (distance from normal prototype),50,0.808,0.042
+mambavision_tiny,one-class (distance from normal prototype),100,0.827,0.034
+mambavision_tiny,one-class (distance from normal prototype),1000,0.863,0.01
+mambavision_tiny,oral carcinoma vs target normals,10,0.613,0.064
+mambavision_tiny,oral carcinoma vs target normals,50,0.743,0.025
+mambavision_tiny,oral carcinoma vs target normals,100,0.738,0.011
+mambavision_tiny,oral carcinoma vs target normals,1000,0.753,0.024
+mambavision_tiny,source + target normals as extra negatives,10,0.526,0.008
+mambavision_tiny,source + target normals as extra negatives,50,0.605,0.016
+mambavision_tiny,source + target normals as extra negatives,100,0.587,0.005
+mambavision_tiny,source + target normals as extra negatives,1000,0.622,0.005
+phikon,direct transfer,0,0.397,
+phikon,one-class (distance from normal prototype),10,0.805,0.082
+phikon,one-class (distance from normal prototype),50,0.911,0.028
+phikon,one-class (distance from normal prototype),100,0.916,0.027
+phikon,one-class (distance from normal prototype),1000,0.931,0.009
+phikon,oral carcinoma vs target normals,10,0.744,0.011
+phikon,oral carcinoma vs target normals,50,0.815,0.023
+phikon,oral carcinoma vs target normals,100,0.808,0.02
+phikon,oral carcinoma vs target normals,1000,0.828,0.014
+phikon,source + target normals as extra negatives,10,0.495,0.042
+phikon,source + target normals as extra negatives,50,0.591,0.02
+phikon,source + target normals as extra negatives,100,0.608,0.016
+phikon,source + target normals as extra negatives,1000,0.642,0.013
+phikon_v2,direct transfer,0,0.644,
+phikon_v2,one-class (distance from normal prototype),10,0.761,0.079
+phikon_v2,one-class (distance from normal prototype),50,0.885,0.034
+phikon_v2,one-class (distance from normal prototype),100,0.902,0.029
+phikon_v2,one-class (distance from normal prototype),1000,0.932,0.007
+phikon_v2,oral carcinoma vs target normals,10,0.752,0.055
+phikon_v2,oral carcinoma vs target normals,50,0.84,0.011
+phikon_v2,oral carcinoma vs target normals,100,0.834,0.01
+phikon_v2,oral carcinoma vs target normals,1000,0.848,0.012
+phikon_v2,source + target normals as extra negatives,10,0.737,0.006
+phikon_v2,source + target normals as extra negatives,50,0.782,0.007
+phikon_v2,source + target normals as extra negatives,100,0.772,0.01
+phikon_v2,source + target normals as extra negatives,1000,0.792,0.005
+swinv2_base,direct transfer,0,0.389,
+swinv2_base,one-class (distance from normal prototype),10,0.662,0.09
+swinv2_base,one-class (distance from normal prototype),50,0.807,0.055
+swinv2_base,one-class (distance from normal prototype),100,0.839,0.029
+swinv2_base,one-class (distance from normal prototype),1000,0.87,0.008
+swinv2_base,oral carcinoma vs target normals,10,0.538,0.041
+swinv2_base,oral carcinoma vs target normals,50,0.653,0.055
+swinv2_base,oral carcinoma vs target normals,100,0.614,0.001
+swinv2_base,oral carcinoma vs target normals,1000,0.638,0.009
+swinv2_base,source + target normals as extra negatives,10,0.437,0.054
+swinv2_base,source + target normals as extra negatives,50,0.509,0.015
+swinv2_base,source + target normals as extra negatives,100,0.491,0.012
+swinv2_base,source + target normals as extra negatives,1000,0.505,0.014
+swinv2_tiny,direct transfer,0,0.353,
+swinv2_tiny,one-class (distance from normal prototype),10,0.674,0.081
+swinv2_tiny,one-class (distance from normal prototype),50,0.817,0.04
+swinv2_tiny,one-class (distance from normal prototype),100,0.84,0.032
+swinv2_tiny,one-class (distance from normal prototype),1000,0.863,0.012
+swinv2_tiny,oral carcinoma vs target normals,10,0.638,0.069
+swinv2_tiny,oral carcinoma vs target normals,50,0.735,0.026
+swinv2_tiny,oral carcinoma vs target normals,100,0.722,0.016
+swinv2_tiny,oral carcinoma vs target normals,1000,0.731,0.005
+swinv2_tiny,source + target normals as extra negatives,10,0.45,0.021
+swinv2_tiny,source + target normals as extra negatives,50,0.525,0.027
+swinv2_tiny,source + target normals as extra negatives,100,0.508,0.002
+swinv2_tiny,source + target normals as extra negatives,1000,0.532,0.003

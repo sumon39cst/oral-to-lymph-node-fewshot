@@ -1,0 +1,643 @@
+experiment,setting,k,head,auroc
+support slides,1 slide(s),10,prototype,0.8619212216436396
+support slides,1 slide(s),10,logistic regression,0.9000218769820577
+support slides,1 slide(s),10,prototype,0.9371986508474366
+support slides,1 slide(s),10,logistic regression,0.946575461772479
+support slides,1 slide(s),10,prototype,0.7206280639937926
+support slides,1 slide(s),10,logistic regression,0.8047618407590317
+support slides,1 slide(s),10,prototype,0.9126320980548817
+support slides,1 slide(s),10,logistic regression,0.9437943919302537
+support slides,1 slide(s),10,prototype,0.868274276832287
+support slides,1 slide(s),10,logistic regression,0.8772941417340224
+support slides,1 slide(s),10,prototype,0.840999842482929
+support slides,1 slide(s),10,logistic regression,0.9069358923522077
+support slides,1 slide(s),10,prototype,0.9357314599852388
+support slides,1 slide(s),10,logistic regression,0.9447841613610035
+support slides,1 slide(s),10,prototype,0.8250278605006579
+support slides,1 slide(s),10,logistic regression,0.8891940409204969
+support slides,1 slide(s),10,prototype,0.924225858498788
+support slides,1 slide(s),10,logistic regression,0.9031130057428278
+support slides,1 slide(s),10,prototype,0.9012129354486723
+support slides,1 slide(s),10,logistic regression,0.911984103966427
+support slides,1 slide(s),10,prototype,0.9140365060987587
+support slides,1 slide(s),10,logistic regression,0.9039473131948893
+support slides,1 slide(s),10,prototype,0.8985758170684282
+support slides,1 slide(s),10,logistic regression,0.8726941152388331
+support slides,1 slide(s),10,prototype,0.9304493828727972
+support slides,1 slide(s),10,logistic regression,0.9298660316861624
+support slides,1 slide(s),10,prototype,0.8029803857895181
+support slides,1 slide(s),10,logistic regression,0.8436166749525387
+support slides,1 slide(s),10,prototype,0.9170919382571083
+support slides,1 slide(s),10,logistic regression,0.911470480909888
+support slides,1 slide(s),10,prototype,0.9389396690017415
+support slides,1 slide(s),10,logistic regression,0.9381787198427337
+support slides,1 slide(s),10,prototype,0.9422156460603517
+support slides,1 slide(s),10,logistic regression,0.9453312459196294
+support slides,1 slide(s),10,prototype,0.9252635550809876
+support slides,1 slide(s),10,logistic regression,0.9333969651897673
+support slides,1 slide(s),10,prototype,0.783517477099547
+support slides,1 slide(s),10,logistic regression,0.8460197778278267
+support slides,1 slide(s),10,prototype,0.8510136670035118
+support slides,1 slide(s),10,logistic regression,0.888737205413151
+support slides,1 slide(s),50,prototype,0.9182837967596366
+support slides,1 slide(s),50,logistic regression,0.9373272766214475
+support slides,1 slide(s),50,prototype,0.8868889524450753
+support slides,1 slide(s),50,logistic regression,0.8689897039478102
+support slides,1 slide(s),50,prototype,0.875112583803887
+support slides,1 slide(s),50,logistic regression,0.9416067737280727
+support slides,1 slide(s),50,prototype,0.9019055815415554
+support slides,1 slide(s),50,logistic regression,0.878051915750498
+support slides,1 slide(s),50,prototype,0.9254265373972638
+support slides,1 slide(s),50,logistic regression,0.9253532791086992
+support slides,1 slide(s),50,prototype,0.9382005758238487
+support slides,1 slide(s),50,logistic regression,0.9389106176976284
+support slides,1 slide(s),50,prototype,0.8135063082981795
+support slides,1 slide(s),50,logistic regression,0.8492670085960159
+support slides,1 slide(s),50,prototype,0.8629511578774771
+support slides,1 slide(s),50,logistic regression,0.8978497444750295
+support slides,1 slide(s),50,prototype,0.7050828161676178
+support slides,1 slide(s),50,logistic regression,0.7640841047354616
+support slides,1 slide(s),50,prototype,0.7494472076851529
+support slides,1 slide(s),50,logistic regression,0.8616389889742151
+support slides,1 slide(s),50,prototype,0.8729030296169995
+support slides,1 slide(s),50,logistic regression,0.932387549877114
+support slides,1 slide(s),50,prototype,0.9147685089583671
+support slides,1 slide(s),50,logistic regression,0.9362403128276429
+support slides,1 slide(s),50,prototype,0.9054288647017364
+support slides,1 slide(s),50,logistic regression,0.8824109714285074
+support slides,1 slide(s),50,prototype,0.8877873227729193
+support slides,1 slide(s),50,logistic regression,0.8119301425440988
+support slides,1 slide(s),50,prototype,0.8282956871933981
+support slides,1 slide(s),50,logistic regression,0.9011952746558793
+support slides,1 slide(s),50,prototype,0.8963309862979749
+support slides,1 slide(s),50,logistic regression,0.8912156966726237
+support slides,1 slide(s),50,prototype,0.8629828092983094
+support slides,1 slide(s),50,logistic regression,0.8968680154052115
+support slides,1 slide(s),50,prototype,0.9152513606335788
+support slides,1 slide(s),50,logistic regression,0.9421344524155689
+support slides,1 slide(s),50,prototype,0.9365905485497243
+support slides,1 slide(s),50,logistic regression,0.882226728157827
+support slides,1 slide(s),50,prototype,0.8522583228761139
+support slides,1 slide(s),50,logistic regression,0.8873491231021361
+support slides,2 slide(s),10,prototype,0.846927813589552
+support slides,2 slide(s),10,logistic regression,0.9345602224083839
+support slides,2 slide(s),10,prototype,0.810369647493476
+support slides,2 slide(s),10,logistic regression,0.8706905853003741
+support slides,2 slide(s),10,prototype,0.7820453560160315
+support slides,2 slide(s),10,logistic regression,0.8521333172646121
+support slides,2 slide(s),10,prototype,0.9032984840689499
+support slides,2 slide(s),10,logistic regression,0.8612408611022548
+support slides,2 slide(s),10,prototype,0.8822950662255229
+support slides,2 slide(s),10,logistic regression,0.9098011659743406
+support slides,2 slide(s),10,prototype,0.6902836918349264
+support slides,2 slide(s),10,logistic regression,0.7814596847252473
+support slides,2 slide(s),10,prototype,0.8174743614240844
+support slides,2 slide(s),10,logistic regression,0.8729153851716404
+support slides,2 slide(s),10,prototype,0.927309921942396
+support slides,2 slide(s),10,logistic regression,0.9324589530824039
+support slides,2 slide(s),10,prototype,0.7656016378575234
+support slides,2 slide(s),10,logistic regression,0.7202156954825703
+support slides,2 slide(s),10,prototype,0.9286276610957066
+support slides,2 slide(s),10,logistic regression,0.928387890332397
+support slides,2 slide(s),10,prototype,0.8950289178481222
+support slides,2 slide(s),10,logistic regression,0.8747403170928343
+support slides,2 slide(s),10,prototype,0.8574617914598186
+support slides,2 slide(s),10,logistic regression,0.9165587043202369
+support slides,2 slide(s),10,prototype,0.8700482114642126
+support slides,2 slide(s),10,logistic regression,0.8677564135854059
+support slides,2 slide(s),10,prototype,0.9505585755744576
+support slides,2 slide(s),10,logistic regression,0.9434838279890384
+support slides,2 slide(s),10,prototype,0.8240310157522971
+support slides,2 slide(s),10,logistic regression,0.8825037455931397
+support slides,2 slide(s),10,prototype,0.9188392866955798
+support slides,2 slide(s),10,logistic regression,0.9378191887033809
+support slides,2 slide(s),10,prototype,0.9209558117063875
+support slides,2 slide(s),10,logistic regression,0.933710304255558
+support slides,2 slide(s),10,prototype,0.9139947592247416
+support slides,2 slide(s),10,logistic regression,0.9339861066363269
+support slides,2 slide(s),10,prototype,0.8937226292088252
+support slides,2 slide(s),10,logistic regression,0.8732938871625947
+support slides,2 slide(s),10,prototype,0.9077057319103055
+support slides,2 slide(s),10,logistic regression,0.9012509321543444
+support slides,2 slide(s),50,prototype,0.9149756482568503
+support slides,2 slide(s),50,logistic regression,0.9287610420831791
+support slides,2 slide(s),50,prototype,0.863361541299589
+support slides,2 slide(s),50,logistic regression,0.9333159965550853
+support slides,2 slide(s),50,prototype,0.6877129914361856
+support slides,2 slide(s),50,logistic regression,0.8346767486392465
+support slides,2 slide(s),50,prototype,0.9002610077166364
+support slides,2 slide(s),50,logistic regression,0.9205869251470699
+support slides,2 slide(s),50,prototype,0.9281616551767009
+support slides,2 slide(s),50,logistic regression,0.9395223451580742
+support slides,2 slide(s),50,prototype,0.8984437561402131
+support slides,2 slide(s),50,logistic regression,0.9244978407080694
+support slides,2 slide(s),50,prototype,0.8717846394124632
+support slides,2 slide(s),50,logistic regression,0.9336584119261113
+support slides,2 slide(s),50,prototype,0.9252554897189335
+support slides,2 slide(s),50,logistic regression,0.9127472032219527
+support slides,2 slide(s),50,prototype,0.8132481517095302
+support slides,2 slide(s),50,logistic regression,0.8662540211430091
+support slides,2 slide(s),50,prototype,0.9396808122716629
+support slides,2 slide(s),50,logistic regression,0.9431197666463248
+support slides,2 slide(s),50,prototype,0.8960150621161383
+support slides,2 slide(s),50,logistic regression,0.9109581379108108
+support slides,2 slide(s),50,prototype,0.8970665193160521
+support slides,2 slide(s),50,logistic regression,0.9240279796160049
+support slides,2 slide(s),50,prototype,0.7928970531487158
+support slides,2 slide(s),50,logistic regression,0.8830995123371088
+support slides,2 slide(s),50,prototype,0.9343549031916043
+support slides,2 slide(s),50,logistic regression,0.9163140983398744
+support slides,2 slide(s),50,prototype,0.939537005816191
+support slides,2 slide(s),50,logistic regression,0.9520131458701181
+support slides,2 slide(s),50,prototype,0.9289550257911078
+support slides,2 slide(s),50,logistic regression,0.9417524202661457
+support slides,2 slide(s),50,prototype,0.8551176612318127
+support slides,2 slide(s),50,logistic regression,0.8966586710077415
+support slides,2 slide(s),50,prototype,0.9168392719149162
+support slides,2 slide(s),50,logistic regression,0.9529629335060851
+support slides,2 slide(s),50,prototype,0.6535174063963731
+support slides,2 slide(s),50,logistic regression,0.7497863879109533
+support slides,2 slide(s),50,prototype,0.9178296863746214
+support slides,2 slide(s),50,logistic regression,0.9499337725270487
+support slides,5 slide(s),10,prototype,0.8749805878785899
+support slides,5 slide(s),10,logistic regression,0.9161671917452374
+support slides,5 slide(s),10,prototype,0.8721544960153261
+support slides,5 slide(s),10,logistic regression,0.9091436114567183
+support slides,5 slide(s),10,prototype,0.915718621608924
+support slides,5 slide(s),10,logistic regression,0.9365986489133498
+support slides,5 slide(s),10,prototype,0.8959202828614976
+support slides,5 slide(s),10,logistic regression,0.8882703544562115
+support slides,5 slide(s),10,prototype,0.779320068677883
+support slides,5 slide(s),10,logistic regression,0.8567169530240213
+support slides,5 slide(s),10,prototype,0.8978688103308957
+support slides,5 slide(s),10,logistic regression,0.9300196385815759
+support slides,5 slide(s),10,prototype,0.9284137514933045
+support slides,5 slide(s),10,logistic regression,0.9409530143808156
+support slides,5 slide(s),10,prototype,0.8386796633300869
+support slides,5 slide(s),10,logistic regression,0.8608815249716559
+support slides,5 slide(s),10,prototype,0.9334700334698025
+support slides,5 slide(s),10,logistic regression,0.9244292876307217
+support slides,5 slide(s),10,prototype,0.8379352349126953
+support slides,5 slide(s),10,logistic regression,0.9078591437969651
+support slides,5 slide(s),10,prototype,0.8250469663583199
+support slides,5 slide(s),10,logistic regression,0.902412049276892
+support slides,5 slide(s),10,prototype,0.9031233012049911
+support slides,5 slide(s),10,logistic regression,0.9125479742785654
+support slides,5 slide(s),10,prototype,0.8371814460751144
+support slides,5 slide(s),10,logistic regression,0.8722888870481396
+support slides,5 slide(s),10,prototype,0.9144697855486733
+support slides,5 slide(s),10,logistic regression,0.9446277343389945
+support slides,5 slide(s),10,prototype,0.9205940554671499
+support slides,5 slide(s),10,logistic regression,0.9257284909519589
+support slides,5 slide(s),10,prototype,0.7711661076465722
+support slides,5 slide(s),10,logistic regression,0.7977494209715074
+support slides,5 slide(s),10,prototype,0.8975324902334866
+support slides,5 slide(s),10,logistic regression,0.9160496164672832
+support slides,5 slide(s),10,prototype,0.9031746385095227
+support slides,5 slide(s),10,logistic regression,0.9276167557161641
+support slides,5 slide(s),10,prototype,0.8825478125713063
+support slides,5 slide(s),10,logistic regression,0.9256264913731977
+support slides,5 slide(s),10,prototype,0.7403473941945254
+support slides,5 slide(s),10,logistic regression,0.8467133639629083
+support slides,5 slide(s),50,prototype,0.8728590976448933
+support slides,5 slide(s),50,logistic regression,0.9152783418447654
+support slides,5 slide(s),50,prototype,0.8868260196200207
+support slides,5 slide(s),50,logistic regression,0.9209903232556109
+support slides,5 slide(s),50,prototype,0.9408966868522728
+support slides,5 slide(s),50,logistic regression,0.9531221056513227
+support slides,5 slide(s),50,prototype,0.8278470570543912
+support slides,5 slide(s),50,logistic regression,0.9445518609330373
+support slides,5 slide(s),50,prototype,0.9177090459590731
+support slides,5 slide(s),50,logistic regression,0.9465720616198461
+support slides,5 slide(s),50,prototype,0.9347348352467543
+support slides,5 slide(s),50,logistic regression,0.9559238714225882
+support slides,5 slide(s),50,prototype,0.832526492114231
+support slides,5 slide(s),50,logistic regression,0.9376352204450458
+support slides,5 slide(s),50,prototype,0.9250936624545076
+support slides,5 slide(s),50,logistic regression,0.946120516349979
+support slides,5 slide(s),50,prototype,0.884633026176545
+support slides,5 slide(s),50,logistic regression,0.9217399469062166
+support slides,5 slide(s),50,prototype,0.831080242192072
+support slides,5 slide(s),50,logistic regression,0.8671430660522351
+support slides,5 slide(s),50,prototype,0.8918015029694683
+support slides,5 slide(s),50,logistic regression,0.9472374514891974
+support slides,5 slide(s),50,prototype,0.9304788841971116
+support slides,5 slide(s),50,logistic regression,0.9565256984386029
+support slides,5 slide(s),50,prototype,0.9365342810238751
+support slides,5 slide(s),50,logistic regression,0.9290130183943958
+support slides,5 slide(s),50,prototype,0.8700877182376717
+support slides,5 slide(s),50,logistic regression,0.9503906930382104
+support slides,5 slide(s),50,prototype,0.9129829438043474
+support slides,5 slide(s),50,logistic regression,0.9526797757951354
+support slides,5 slide(s),50,prototype,0.912809406014236
+support slides,5 slide(s),50,logistic regression,0.9110513070931754
+support slides,5 slide(s),50,prototype,0.8822093773789506
+support slides,5 slide(s),50,logistic regression,0.9153055380656038
+support slides,5 slide(s),50,prototype,0.852969999823292
+support slides,5 slide(s),50,logistic regression,0.9348183139941152
+support slides,5 slide(s),50,prototype,0.876178151637227
+support slides,5 slide(s),50,logistic regression,0.9589745633681496
+support slides,5 slide(s),50,prototype,0.9267174253452237
+support slides,5 slide(s),50,logistic regression,0.9445950278708011
+support slides,all 108 slides,10,prototype,0.9320040426614751
+support slides,all 108 slides,10,logistic regression,0.9432029903822382
+support slides,all 108 slides,10,prototype,0.9070027853550345
+support slides,all 108 slides,10,logistic regression,0.9230689965672559
+support slides,all 108 slides,10,prototype,0.9310718258142608
+support slides,all 108 slides,10,logistic regression,0.9523016688219134
+support slides,all 108 slides,10,prototype,0.7635714467222433
+support slides,all 108 slides,10,logistic regression,0.8190784284306523
+support slides,all 108 slides,10,prototype,0.9043025591418798
+support slides,all 108 slides,10,logistic regression,0.9319397947773875
+support slides,all 108 slides,10,prototype,0.8377775578345712
+support slides,all 108 slides,10,logistic regression,0.9074360248031534
+support slides,all 108 slides,10,prototype,0.8209746135504022
+support slides,all 108 slides,10,logistic regression,0.8610935694903344
+support slides,all 108 slides,10,prototype,0.8790550757823519
+support slides,all 108 slides,10,logistic regression,0.8939980965745552
+support slides,all 108 slides,10,prototype,0.9207183110449828
+support slides,all 108 slides,10,logistic regression,0.9346637070538096
+support slides,all 108 slides,10,prototype,0.8327543273417544
+support slides,all 108 slides,10,logistic regression,0.884994167388174
+support slides,all 108 slides,10,prototype,0.9280398647095268
+support slides,all 108 slides,10,logistic regression,0.9407736863307794
+support slides,all 108 slides,10,prototype,0.9002324614351939
+support slides,all 108 slides,10,logistic regression,0.9005228444704882
+support slides,all 108 slides,10,prototype,0.8970705794983137
+support slides,all 108 slides,10,logistic regression,0.9018554042890985
+support slides,all 108 slides,10,prototype,0.8342607349643926
+support slides,all 108 slides,10,logistic regression,0.8565842320661774
+support slides,all 108 slides,10,prototype,0.8707216166933733
+support slides,all 108 slides,10,logistic regression,0.9140847832659208
+support slides,all 108 slides,10,prototype,0.7873886758776601
+support slides,all 108 slides,10,logistic regression,0.8266270222870304
+support slides,all 108 slides,10,prototype,0.9175113470843707
+support slides,all 108 slides,10,logistic regression,0.8993986340046805
+support slides,all 108 slides,10,prototype,0.8247790393310755
+support slides,all 108 slides,10,logistic regression,0.8743905013896074
+support slides,all 108 slides,10,prototype,0.9205811898896141
+support slides,all 108 slides,10,logistic regression,0.9471034654745651
+support slides,all 108 slides,10,prototype,0.76268538694702
+support slides,all 108 slides,10,logistic regression,0.7777661789237719
+support slides,all 108 slides,50,prototype,0.935706443862265
+support slides,all 108 slides,50,logistic regression,0.944807522409681
+support slides,all 108 slides,50,prototype,0.9345253308421015
+support slides,all 108 slides,50,logistic regression,0.9555285136749788
+support slides,all 108 slides,50,prototype,0.9201052085228106
+support slides,all 108 slides,50,logistic regression,0.9619840034619154
+support slides,all 108 slides,50,prototype,0.941646240499736
+support slides,all 108 slides,50,logistic regression,0.9615907508088039
+support slides,all 108 slides,50,prototype,0.952905155912449
+support slides,all 108 slides,50,logistic regression,0.9526902562656038
+support slides,all 108 slides,50,prototype,0.9067278930151175
+support slides,all 108 slides,50,logistic regression,0.9670291049365206
+support slides,all 108 slides,50,prototype,0.9174203930014418
+support slides,all 108 slides,50,logistic regression,0.9616903002775795
+support slides,all 108 slides,50,prototype,0.9175444785716431
+support slides,all 108 slides,50,logistic regression,0.9286789183966468
+support slides,all 108 slides,50,prototype,0.9449130121451151
+support slides,all 108 slides,50,logistic regression,0.9613403895700878
+support slides,all 108 slides,50,prototype,0.9491573926753571
+support slides,all 108 slides,50,logistic regression,0.9663068075125892
+support slides,all 108 slides,50,prototype,0.9107080416839912
+support slides,all 108 slides,50,logistic regression,0.9481651131319285
+support slides,all 108 slides,50,prototype,0.9263010866557799
+support slides,all 108 slides,50,logistic regression,0.9534018232078438
+support slides,all 108 slides,50,prototype,0.9200253599384076
+support slides,all 108 slides,50,logistic regression,0.9535865465000724
+support slides,all 108 slides,50,prototype,0.9449449485787417
+support slides,all 108 slides,50,logistic regression,0.959876198842566
+support slides,all 108 slides,50,prototype,0.900442610868802
+support slides,all 108 slides,50,logistic regression,0.9501223659930095
+support slides,all 108 slides,50,prototype,0.9337087591861999
+support slides,all 108 slides,50,logistic regression,0.9582071239177927
+support slides,all 108 slides,50,prototype,0.94141792025044
+support slides,all 108 slides,50,logistic regression,0.9588600132259937
+support slides,all 108 slides,50,prototype,0.9159354513424107
+support slides,all 108 slides,50,logistic regression,0.9358521254019093
+support slides,all 108 slides,50,prototype,0.9416390701778603
+support slides,all 108 slides,50,logistic regression,0.9548451629993671
+support slides,all 108 slides,50,prototype,0.9435257248697894
+support slides,all 108 slides,50,logistic regression,0.9563273295338228
+label noise,0% flipped,50,prototype,0.935706443862265
+label noise,0% flipped,50,logistic regression,0.944807522409681
+label noise,0% flipped,50,prototype,0.9345253308421015
+label noise,0% flipped,50,logistic regression,0.9555285136749788
+label noise,0% flipped,50,prototype,0.9201052085228106
+label noise,0% flipped,50,logistic regression,0.9619840034619154
+label noise,0% flipped,50,prototype,0.941646240499736
+label noise,0% flipped,50,logistic regression,0.9615907508088039
+label noise,0% flipped,50,prototype,0.952905155912449
+label noise,0% flipped,50,logistic regression,0.9526902562656038
+label noise,0% flipped,50,prototype,0.9067278930151175
+label noise,0% flipped,50,logistic regression,0.9670291049365206
+label noise,0% flipped,50,prototype,0.9174203930014418
+label noise,0% flipped,50,logistic regression,0.9616903002775795
+label noise,0% flipped,50,prototype,0.9175444785716431
+label noise,0% flipped,50,logistic regression,0.9286789183966468
+label noise,0% flipped,50,prototype,0.9449130121451151
+label noise,0% flipped,50,logistic regression,0.9613403895700878
+label noise,0% flipped,50,prototype,0.9491573926753571
+label noise,0% flipped,50,logistic regression,0.9663068075125892
+label noise,0% flipped,50,prototype,0.9107080416839912
+label noise,0% flipped,50,logistic regression,0.9481651131319285
+label noise,0% flipped,50,prototype,0.9263010866557799
+label noise,0% flipped,50,logistic regression,0.9534018232078438
+label noise,0% flipped,50,prototype,0.9200253599384076
+label noise,0% flipped,50,logistic regression,0.9535865465000724
+label noise,0% flipped,50,prototype,0.9449449485787417
+label noise,0% flipped,50,logistic regression,0.959876198842566
+label noise,0% flipped,50,prototype,0.900442610868802
+label noise,0% flipped,50,logistic regression,0.9501223659930095
+label noise,0% flipped,50,prototype,0.9337087591861999
+label noise,0% flipped,50,logistic regression,0.9582071239177927
+label noise,0% flipped,50,prototype,0.94141792025044
+label noise,0% flipped,50,logistic regression,0.9588600132259937
+label noise,0% flipped,50,prototype,0.9159354513424107
+label noise,0% flipped,50,logistic regression,0.9358521254019093
+label noise,0% flipped,50,prototype,0.9416390701778603
+label noise,0% flipped,50,logistic regression,0.9548451629993671
+label noise,0% flipped,50,prototype,0.9435257248697894
+label noise,0% flipped,50,logistic regression,0.9563273295338228
+label noise,10% flipped,50,prototype,0.9296819884244604
+label noise,10% flipped,50,logistic regression,0.9318785320273028
+label noise,10% flipped,50,prototype,0.9359835163000467
+label noise,10% flipped,50,logistic regression,0.93317991044618
+label noise,10% flipped,50,prototype,0.9442248062515526
+label noise,10% flipped,50,logistic regression,0.9496143281871923
+label noise,10% flipped,50,prototype,0.9013697474879647
+label noise,10% flipped,50,logistic regression,0.9276270111765317
+label noise,10% flipped,50,prototype,0.9340277685065282
+label noise,10% flipped,50,logistic regression,0.9189367710716534
+label noise,10% flipped,50,prototype,0.904130526419331
+label noise,10% flipped,50,logistic regression,0.9566682898395309
+label noise,10% flipped,50,prototype,0.8814940652685899
+label noise,10% flipped,50,logistic regression,0.9200007588340641
+label noise,10% flipped,50,prototype,0.8649499676040457
+label noise,10% flipped,50,logistic regression,0.8897683066992877
+label noise,10% flipped,50,prototype,0.9417032580592543
+label noise,10% flipped,50,logistic regression,0.9383505625567532
+label noise,10% flipped,50,prototype,0.9436683912740843
+label noise,10% flipped,50,logistic regression,0.9539604932865436
+label noise,10% flipped,50,prototype,0.900902371507457
+label noise,10% flipped,50,logistic regression,0.9210715068999448
+label noise,10% flipped,50,prototype,0.9418362640298923
+label noise,10% flipped,50,logistic regression,0.946531999821472
+label noise,10% flipped,50,prototype,0.8902291173850794
+label noise,10% flipped,50,logistic regression,0.9036405144226924
+label noise,10% flipped,50,prototype,0.9384810684151611
+label noise,10% flipped,50,logistic regression,0.9259113591609127
+label noise,10% flipped,50,prototype,0.9314142411852868
+label noise,10% flipped,50,logistic regression,0.9593533853734694
+label noise,10% flipped,50,prototype,0.9460594886104438
+label noise,10% flipped,50,logistic regression,0.9546167727469286
+label noise,10% flipped,50,prototype,0.9288223448350597
+label noise,10% flipped,50,logistic regression,0.9360235980993187
+label noise,10% flipped,50,prototype,0.885908273422394
+label noise,10% flipped,50,logistic regression,0.9053571264814078
+label noise,10% flipped,50,prototype,0.9372441128882275
+label noise,10% flipped,50,logistic regression,0.9360392588023276
+label noise,10% flipped,50,prototype,0.9062117198441038
+label noise,10% flipped,50,logistic regression,0.9383081856544541
+label noise,20% flipped,50,prototype,0.9116587093594631
+label noise,20% flipped,50,logistic regression,0.8879466399246663
+label noise,20% flipped,50,prototype,0.8306713738379716
+label noise,20% flipped,50,logistic regression,0.903840703409176
+label noise,20% flipped,50,prototype,0.9185526538286304
+label noise,20% flipped,50,logistic regression,0.9073032938448607
+label noise,20% flipped,50,prototype,0.8368427908728823
+label noise,20% flipped,50,logistic regression,0.9394527820353855
+label noise,20% flipped,50,prototype,0.9236112359083799
+label noise,20% flipped,50,logistic regression,0.9375882783378146
+label noise,20% flipped,50,prototype,0.9372745442542916
+label noise,20% flipped,50,logistic regression,0.923119068814999
+label noise,20% flipped,50,prototype,0.9517396785941721
+label noise,20% flipped,50,logistic regression,0.9160186800785487
+label noise,20% flipped,50,prototype,0.89944151592965
+label noise,20% flipped,50,logistic regression,0.7938047188938312
+label noise,20% flipped,50,prototype,0.9104979822544234
+label noise,20% flipped,50,logistic regression,0.8564103542608028
+label noise,20% flipped,50,prototype,0.9359891015507686
+label noise,20% flipped,50,logistic regression,0.9028149823645584
+label noise,20% flipped,50,prototype,0.8567676002975774
+label noise,20% flipped,50,logistic regression,0.8669925442953135
+label noise,20% flipped,50,prototype,0.9290173635894515
+label noise,20% flipped,50,logistic regression,0.9204281280186668
+label noise,20% flipped,50,prototype,0.9081631424434643
+label noise,20% flipped,50,logistic regression,0.8246125668581262
+label noise,20% flipped,50,prototype,0.8955094794205312
+label noise,20% flipped,50,logistic regression,0.9122106641367131
+label noise,20% flipped,50,prototype,0.8265411434319286
+label noise,20% flipped,50,logistic regression,0.8483619029658241
+label noise,20% flipped,50,prototype,0.945259142682915
+label noise,20% flipped,50,logistic regression,0.9034276948692227
+label noise,20% flipped,50,prototype,0.9382669438031073
+label noise,20% flipped,50,logistic regression,0.9141748873106914
+label noise,20% flipped,50,prototype,0.8320723817292158
+label noise,20% flipped,50,logistic regression,0.8300797922818756
+label noise,20% flipped,50,prototype,0.9045104534742564
+label noise,20% flipped,50,logistic regression,0.8625348791907269
+label noise,20% flipped,50,prototype,0.8832278380976522
+label noise,20% flipped,50,logistic regression,0.8950868854502879
+label noise,30% flipped,50,prototype,0.9136257176584657
+label noise,30% flipped,50,logistic regression,0.8102137804966065
+label noise,30% flipped,50,prototype,0.8936049489261573
+label noise,30% flipped,50,logistic regression,0.7885828394836644
+label noise,30% flipped,50,prototype,0.9116217577007032
+label noise,30% flipped,50,logistic regression,0.8368789174946063
+label noise,30% flipped,50,prototype,0.813038152282656
+label noise,30% flipped,50,logistic regression,0.7985761030812674
+label noise,30% flipped,50,prototype,0.6748343383134469
+label noise,30% flipped,50,logistic regression,0.7104922939990777
+label noise,30% flipped,50,prototype,0.8766720388078221
+label noise,30% flipped,50,logistic regression,0.8331165186005199
+label noise,30% flipped,50,prototype,0.8841246933574848
+label noise,30% flipped,50,logistic regression,0.7811735518807439
+label noise,30% flipped,50,prototype,0.9165561742066601
+label noise,30% flipped,50,logistic regression,0.784339769012231
+label noise,30% flipped,50,prototype,0.9294874496916167
+label noise,30% flipped,50,logistic regression,0.7283932275719857
+label noise,30% flipped,50,prototype,0.8920859857398998
+label noise,30% flipped,50,logistic regression,0.808838343753251
+label noise,30% flipped,50,prototype,0.837943470282381
+label noise,30% flipped,50,logistic regression,0.8403560185816741
+label noise,30% flipped,50,prototype,0.9030398124571812
+label noise,30% flipped,50,logistic regression,0.8225726702871692
+label noise,30% flipped,50,prototype,0.6938073550121665
+label noise,30% flipped,50,logistic regression,0.7182232060397191
+label noise,30% flipped,50,prototype,0.833115398550241
+label noise,30% flipped,50,logistic regression,0.8226895205325767
+label noise,30% flipped,50,prototype,0.8829681914421138
+label noise,30% flipped,50,logistic regression,0.7717177974119258
+label noise,30% flipped,50,prototype,0.8909776159851815
+label noise,30% flipped,50,logistic regression,0.8096771214059799
+label noise,30% flipped,50,prototype,0.9288352854159623
+label noise,30% flipped,50,logistic regression,0.8470260229981724
+label noise,30% flipped,50,prototype,0.8241737171581632
+label noise,30% flipped,50,logistic regression,0.7784788159140463
+label noise,30% flipped,50,prototype,0.8023155109432862
+label noise,30% flipped,50,logistic regression,0.7188166276784165
+label noise,30% flipped,50,prototype,0.8243874117509135
+label noise,30% flipped,50,logistic regression,0.7771464011019454
+label noise,40% flipped,50,prototype,0.5514374590275357
+label noise,40% flipped,50,logistic regression,0.6425130024086781
+label noise,40% flipped,50,prototype,0.7995275807931018
+label noise,40% flipped,50,logistic regression,0.7172262762875425
+label noise,40% flipped,50,prototype,0.6754590613572643
+label noise,40% flipped,50,logistic regression,0.7374331683749283
+label noise,40% flipped,50,prototype,0.41332376410377064
+label noise,40% flipped,50,logistic regression,0.49445166593528384
+label noise,40% flipped,50,prototype,0.7408150001853583
+label noise,40% flipped,50,logistic regression,0.7535178404158562
+label noise,40% flipped,50,prototype,0.7704792218122671
+label noise,40% flipped,50,logistic regression,0.7991938158103917
+label noise,40% flipped,50,prototype,0.8257833394141063
+label noise,40% flipped,50,logistic regression,0.7021956165612274
+label noise,40% flipped,50,prototype,0.7295289485545006
+label noise,40% flipped,50,logistic regression,0.506398947248742
+label noise,40% flipped,50,prototype,0.7211931493604747
+label noise,40% flipped,50,logistic regression,0.6624799087231026
+label noise,40% flipped,50,prototype,0.7086884080226361
+label noise,40% flipped,50,logistic regression,0.6456706291545428
+label noise,40% flipped,50,prototype,0.6608760767270843
+label noise,40% flipped,50,logistic regression,0.6528975435707309
+label noise,40% flipped,50,prototype,0.697942330631222
+label noise,40% flipped,50,logistic regression,0.6260604488535491
+label noise,40% flipped,50,prototype,0.7967158295735896
+label noise,40% flipped,50,logistic regression,0.7322378101552979
+label noise,40% flipped,50,prototype,0.646776683805336
+label noise,40% flipped,50,logistic regression,0.6260626789536582
+label noise,40% flipped,50,prototype,0.840507770393813
+label noise,40% flipped,50,logistic regression,0.6058377310557471
+label noise,40% flipped,50,prototype,0.8388560812494873
+label noise,40% flipped,50,logistic regression,0.6657858771280243
+label noise,40% flipped,50,prototype,0.6589852568481799
+label noise,40% flipped,50,logistic regression,0.616689218179004
+label noise,40% flipped,50,prototype,0.5985530540465962
+label noise,40% flipped,50,logistic regression,0.5408621543021066
+label noise,40% flipped,50,prototype,0.7928482509579855
+label noise,40% flipped,50,logistic regression,0.635795515860707
+label noise,40% flipped,50,prototype,0.6864943467312248
+label noise,40% flipped,50,logistic regression,0.6086991645054947
+large support,k=100,100,prototype,0.9195211873060982
+large support,k=100,100,logistic regression,0.958312473646942
+large support,k=100,100,prototype,0.9206138913575831
+large support,k=100,100,logistic regression,0.9680184843497625
+large support,k=100,100,prototype,0.9113137538744114
+large support,k=100,100,logistic regression,0.9581474812404329
+large support,k=100,100,prototype,0.9264532434861001
+large support,k=100,100,logistic regression,0.9702244933775077
+large support,k=100,100,prototype,0.8890876361439864
+large support,k=100,100,logistic regression,0.9617521430537017
+large support,k=100,100,prototype,0.9242460394047088
+large support,k=100,100,logistic regression,0.9589666430126048
+large support,k=100,100,prototype,0.9411556484770601
+large support,k=100,100,logistic regression,0.962994343816094
+large support,k=100,100,prototype,0.9198205607449719
+large support,k=100,100,logistic regression,0.9682834562443509
+large support,k=100,100,prototype,0.9066847910802716
+large support,k=100,100,logistic regression,0.9600332858942038
+large support,k=100,100,prototype,0.9308054338559258
+large support,k=100,100,logistic regression,0.9583543205254483
+large support,k=200,200,prototype,0.9375463064536967
+large support,k=200,200,logistic regression,0.9675772045407118
+large support,k=200,200,prototype,0.9385575068464823
+large support,k=200,200,logistic regression,0.9668605273690736
+large support,k=200,200,prototype,0.9143297942644645
+large support,k=200,200,logistic regression,0.9682496447265517
+large support,k=200,200,prototype,0.9332273225745104
+large support,k=200,200,logistic regression,0.9679309304194665
+large support,k=200,200,prototype,0.931094021810639
+large support,k=200,200,logistic regression,0.9639982538816168
+large support,k=200,200,prototype,0.9430732045561525
+large support,k=200,200,logistic regression,0.9708502014655438
+large support,k=200,200,prototype,0.9271453995569862
+large support,k=200,200,logistic regression,0.9646469280005979
+large support,k=200,200,prototype,0.9306688177232276
+large support,k=200,200,logistic regression,0.967899308999981
+large support,k=200,200,prototype,0.9436475953405549
+large support,k=200,200,logistic regression,0.9707910788115278
+large support,k=200,200,prototype,0.920313622878531
+large support,k=200,200,logistic regression,0.9701065230818211
+large support,k=500,500,prototype,0.9351384633656205
+large support,k=500,500,logistic regression,0.9688584820572596
+large support,k=500,500,prototype,0.9306779581335406
+large support,k=500,500,logistic regression,0.972518166340487
+large support,k=500,500,prototype,0.9316565120608264
+large support,k=500,500,logistic regression,0.9703772302338652
+large support,k=500,500,prototype,0.9252197381140439
+large support,k=500,500,logistic regression,0.970910914190938
+large support,k=500,500,prototype,0.9346392559561999
+large support,k=500,500,logistic regression,0.9687739782638842
+large support,k=500,500,prototype,0.9435239947921262
+large support,k=500,500,logistic regression,0.9773860648604515
+large support,k=500,500,prototype,0.9221030082040382
+large support,k=500,500,logistic regression,0.9732358985594863
+large support,k=500,500,prototype,0.9288781773413809
+large support,k=500,500,logistic regression,0.9725630983574852
+large support,k=500,500,prototype,0.9203178330675263
+large support,k=500,500,logistic regression,0.9745971496660485
+large support,k=500,500,prototype,0.9203864161462209
+large support,k=500,500,logistic regression,0.9731169932218258
+large support,k=1000,1000,prototype,0.9344813688686485
+large support,k=1000,1000,logistic regression,0.9745695984292735
+large support,k=1000,1000,prototype,0.9348056234244355
+large support,k=1000,1000,logistic regression,0.9763923502526028
+large support,k=1000,1000,prototype,0.9329409897210286
+large support,k=1000,1000,logistic regression,0.9766153852646445
+large support,k=1000,1000,prototype,0.932833354889301
+large support,k=1000,1000,logistic regression,0.9743403181368812
+large support,k=1000,1000,prototype,0.9346443711858226
+large support,k=1000,1000,logistic regression,0.9731335339643397
+large support,k=1000,1000,prototype,0.9295091856673446
+large support,k=1000,1000,logistic regression,0.9724451380622476
+large support,k=1000,1000,prototype,0.9370784154500695
+large support,k=1000,1000,logistic regression,0.9751139778664665
+large support,k=1000,1000,prototype,0.9266251062010173
+large support,k=1000,1000,logistic regression,0.9750889817443905
+large support,k=1000,1000,prototype,0.934290310292029
+large support,k=1000,1000,logistic regression,0.9727937687122775
+large support,k=1000,1000,prototype,0.9344400720148327
+large support,k=1000,1000,logistic regression,0.9752220727188443
+large support,k=2000,2000,prototype,0.9291853011281677
+large support,k=2000,2000,logistic regression,0.9770016076021653
+large support,k=2000,2000,prototype,0.9371423483200161
+large support,k=2000,2000,logistic regression,0.9753369428753657
+large support,k=2000,2000,prototype,0.9387737015514627
+large support,k=2000,2000,logistic regression,0.9749602759667881
+large support,k=2000,2000,prototype,0.9362549634853109
+large support,k=2000,2000,logistic regression,0.9756894737004744
+large support,k=2000,2000,prototype,0.9327388106452099
+large support,k=2000,2000,logistic regression,0.972314332190372
+large support,k=2000,2000,prototype,0.936490589062543
+large support,k=2000,2000,logistic regression,0.976806128827123
+large support,k=2000,2000,prototype,0.9389540796486354
+large support,k=2000,2000,logistic regression,0.9739662663456963
+large support,k=2000,2000,prototype,0.9321695900928992
+large support,k=2000,2000,logistic regression,0.9760686857233021
+large support,k=2000,2000,prototype,0.9359346191050516
+large support,k=2000,2000,logistic regression,0.9773990454431499
+large support,k=2000,2000,prototype,0.9334530877091073
+large support,k=2000,2000,logistic regression,0.976135448720293
+large support,k=5000,5000,prototype,0.9364771384587454
+large support,k=5000,5000,logistic regression,0.9756236357450085
+large support,k=5000,5000,prototype,0.9327982383129179
+large support,k=5000,5000,logistic regression,0.9751646551413693
+large support,k=5000,5000,prototype,0.9336892433101321
+large support,k=5000,5000,logistic regression,0.9747563768137552
+large support,k=5000,5000,prototype,0.9350622699452978
+large support,k=5000,5000,logistic regression,0.974151414657004
+large support,k=5000,5000,prototype,0.9355908636738703
+large support,k=5000,5000,logistic regression,0.9746437717589143
+large support,k=5000,5000,prototype,0.9335319662499649
+large support,k=5000,5000,logistic regression,0.974852896146508
+large support,k=5000,5000,prototype,0.9341983561642082
+large support,k=5000,5000,logistic regression,0.9756914587895851
+large support,k=5000,5000,prototype,0.9316433814713942
+large support,k=5000,5000,logistic regression,0.9749593659259365
+large support,k=5000,5000,prototype,0.9349316790830741
+large support,k=5000,5000,logistic regression,0.9756114851995706
+large support,k=5000,5000,prototype,0.9302006367065817
+large support,k=5000,5000,logistic regression,0.9757005941996736
+large support,"all 20,000 adaptation patches",10000,prototype,0.9342255973870667
+large support,"all 20,000 adaptation patches",10000,logistic regression,0.9757356507733632

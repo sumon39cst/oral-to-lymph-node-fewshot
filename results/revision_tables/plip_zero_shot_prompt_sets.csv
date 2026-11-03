@@ -1,0 +1,12 @@
+target,prompt_set,negative,positive,auroc,sensitivity,specificity,positive_rate
+pcam,0,an H&E image of normal lymph node tissue,an H&E image of lymph node metastasis,0.6311,0.5242,0.6217,0.4518
+pcam,1,an H&E image of benign lymphoid tissue,an H&E image of metastatic carcinoma in a lymph node,0.8069,0.8803,0.475,0.7038
+pcam,2,a histopathology image of a lymph node without tumor,a histopathology image of a lymph node with tumor,0.7068,0.5416,0.7854,0.3792
+pcam,3,normal lymph node,metastatic breast carcinoma in a lymph node,0.7019,0.0626,0.9741,0.0444
+pcam,4,lymphocytes,tumor cells,0.7624,0.9195,0.2705,0.8252
+lung,0,an H&E image of benign lung tissue,an H&E image of lung squamous cell carcinoma,0.9998,1.0,0.979,0.5105
+lung,1,a histopathology image of normal lung,a histopathology image of squamous cell carcinoma of the lung,0.9997,0.971,0.999,0.486
+colon,0,an H&E image of benign colon tissue,an H&E image of colon adenocarcinoma,0.9966,0.985,0.958,0.5135
+colon,1,a histopathology image of normal colonic mucosa,a histopathology image of colorectal adenocarcinoma,0.9852,0.98,0.829,0.5755
+oral,0,an H&E image of normal oral mucosa,an H&E image of oral squamous cell carcinoma,0.7448,0.5382,0.8202,0.4236
+oral,1,a histopathology image of normal oral squamous epithelium,a histopathology image of squamous cell carcinoma of the oral cavity,0.7879,0.6168,0.8186,0.4776

@@ -1,0 +1,9 @@
+,,retro_sensitivity,retro_sensitivity,cal_sensitivity,cal_sensitivity,cal_realised_specificity,cal_realised_specificity
+,,mean,std,mean,std,mean,std
+head,target_specificity,,,,,,
+logistic regression,0.9,0.884,0.016,0.887,0.022,0.893,0.02
+logistic regression,0.95,0.828,0.022,0.845,0.026,0.938,0.016
+logistic regression,0.98,0.744,0.03,0.779,0.034,0.969,0.011
+prototypes,0.9,0.823,0.043,0.833,0.045,0.888,0.024
+prototypes,0.95,0.732,0.063,0.769,0.059,0.933,0.014
+prototypes,0.98,0.599,0.084,0.671,0.076,0.966,0.011

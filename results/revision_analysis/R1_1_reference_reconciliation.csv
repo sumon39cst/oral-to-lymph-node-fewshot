@@ -1,0 +1,7 @@
+encoder,reference,C,auroc,cv_auroc_C=0.001,cv_auroc_C=0.01,cv_auroc_C=0.1,cv_auroc_C=1.0,cv_auroc_C=10.0
+phikon,"C from oral validation fold (first submission, Table 6)",1.0,0.968,0.9714,0.9709,0.9608,0.9434,0.931
+phikon,"C = 0.01 (few-shot setting, Figure 9c)",0.01,0.9757,0.9714,0.9709,0.9608,0.9434,0.931
+phikon,C by 5-fold slide-grouped CV on the adaptation pool (revised reference),0.001,0.9766,0.9714,0.9709,0.9608,0.9434,0.931
+phikon_v2,"C from oral validation fold (first submission, Table 6)",0.1,0.9696,0.9728,0.9703,0.959,0.945,0.9363
+phikon_v2,"C = 0.01 (few-shot setting, Figure 9c)",0.01,0.9733,0.9728,0.9703,0.959,0.945,0.9363
+phikon_v2,C by 5-fold slide-grouped CV on the adaptation pool (revised reference),0.001,0.9734,0.9728,0.9703,0.959,0.945,0.9363

@@ -1,0 +1,8 @@
+scope,pairs,images_involved,of_total
+pairs across different datasets,186,283,
+ds1: pairs within the dataset,314,480,
+ds1: training image paired with a validation/test image,6,6,246.0
+ds2: pairs within the dataset,187,258,
+ds2: training image paired with a validation/test image,63,46,2002.0
+ds3: pairs within the dataset,491,788,
+ds3: training image paired with a validation/test image,177,157,1941.0

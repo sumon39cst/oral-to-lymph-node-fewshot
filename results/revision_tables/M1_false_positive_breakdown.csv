@@ -1,0 +1,10 @@
+encoder,fp_rate_all_normals,fp_rate_normal_slides,fp_rate_tumour_slide_normals,n_normal_slide,n_tumour_slide_normals,fp_rate_nuclear_density_low,fp_rate_nuclear_density_middle,fp_rate_nuclear_density_high,spearman_score_vs_density_normals
+efficientnet_b0_96px,0.8083,0.8,0.8214,6075,3858,0.5394,0.9034,0.9822,0.5645
+efficientnet_b0,0.6818,0.6793,0.6856,6075,3858,0.2344,0.8255,0.9855,0.7426
+convnextv2_tiny,0.953,0.9519,0.9546,6075,3858,0.8834,0.9795,0.9961,0.477
+swinv2_tiny,0.6111,0.626,0.5876,6075,3858,0.482,0.5389,0.8124,0.3255
+swinv2_base,0.7273,0.7258,0.7297,6075,3858,0.3661,0.8379,0.9779,0.6542
+mambavision_tiny,0.6464,0.6565,0.6306,6075,3858,0.7366,0.6495,0.5532,-0.2474
+dinov2_base,0.8909,0.8909,0.8909,6075,3858,0.7152,0.9641,0.9934,0.5612
+phikon,0.6241,0.6135,0.6407,6075,3858,0.2259,0.6621,0.9843,0.7997
+phikon_v2,0.7178,0.722,0.7112,6075,3858,0.4376,0.865,0.8508,0.51

@@ -1,0 +1,25 @@
+encoder,source_training_set,field_of_view,internal_auroc,external_auroc,ci_lo,ci_hi
+efficientnet_b0,all datasets,full field,0.9693,0.4362,0.3892,0.4779
+efficientnet_b0,all datasets,1/2 field,0.964,0.2876,0.26,0.3175
+efficientnet_b0,all datasets,1/4 field,0.928,0.3757,0.3399,0.4061
+efficientnet_b0,all datasets,1/8 field,0.8898,0.3761,0.336,0.4173
+efficientnet_b0,DS3 only (400x),full field,0.9905,0.4605,0.4067,0.5079
+efficientnet_b0,DS3 only (400x),1/2 field,0.9858,0.415,0.3702,0.4544
+efficientnet_b0,DS3 only (400x),1/4 field,0.9721,0.3827,0.3432,0.4219
+efficientnet_b0,DS3 only (400x),1/8 field,0.9261,0.5482,0.5019,0.5826
+phikon,all datasets,full field,0.9917,0.3973,0.3434,0.4473
+phikon,all datasets,1/2 field,0.9868,0.5208,0.4737,0.5667
+phikon,all datasets,1/4 field,0.9667,0.3205,0.2842,0.3514
+phikon,all datasets,1/8 field,0.9296,0.6435,0.6029,0.6849
+phikon,DS3 only (400x),full field,1.0,0.3192,0.2708,0.3688
+phikon,DS3 only (400x),1/2 field,1.0,0.3475,0.282,0.4129
+phikon,DS3 only (400x),1/4 field,1.0,0.2757,0.2332,0.3173
+phikon,DS3 only (400x),1/8 field,0.9982,0.4314,0.3824,0.4832
+phikon_v2,all datasets,full field,0.9929,0.6445,0.5892,0.7002
+phikon_v2,all datasets,1/2 field,0.9855,0.5731,0.5209,0.6179
+phikon_v2,all datasets,1/4 field,0.9735,0.4655,0.4057,0.5308
+phikon_v2,all datasets,1/8 field,0.9384,0.4453,0.4045,0.4822
+phikon_v2,DS3 only (400x),full field,0.9998,0.5776,0.5167,0.6414
+phikon_v2,DS3 only (400x),1/2 field,0.9999,0.5171,0.4605,0.5776
+phikon_v2,DS3 only (400x),1/4 field,1.0,0.5547,0.5073,0.604
+phikon_v2,DS3 only (400x),1/8 field,0.9999,0.6157,0.5561,0.6713

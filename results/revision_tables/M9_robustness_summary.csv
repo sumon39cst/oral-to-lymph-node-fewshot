@@ -1,0 +1,41 @@
+experiment,setting,k,head,mean,std
+support slides,1 slide(s),10,prototype,0.882,0.061
+support slides,1 slide(s),10,logistic regression,0.902,0.039
+support slides,1 slide(s),50,prototype,0.872,0.06
+support slides,1 slide(s),50,logistic regression,0.891,0.046
+support slides,2 slide(s),10,prototype,0.865,0.066
+support slides,2 slide(s),10,logistic regression,0.886,0.056
+support slides,2 slide(s),50,prototype,0.874,0.08
+support slides,2 slide(s),50,logistic regression,0.911,0.048
+support slides,5 slide(s),10,prototype,0.868,0.055
+support slides,5 slide(s),10,logistic regression,0.902,0.038
+support slides,5 slide(s),50,prototype,0.892,0.037
+support slides,5 slide(s),50,logistic regression,0.935,0.022
+support slides,all 108 slides,10,prototype,0.869,0.056
+support slides,all 108 slides,10,logistic regression,0.895,0.047
+support slides,all 108 slides,50,prototype,0.93,0.015
+support slides,all 108 slides,50,logistic regression,0.955,0.01
+label noise,0% flipped,50,prototype,0.93,0.015
+label noise,0% flipped,50,logistic regression,0.955,0.01
+label noise,10% flipped,50,prototype,0.919,0.025
+label noise,10% flipped,50,logistic regression,0.932,0.019
+label noise,20% flipped,50,prototype,0.899,0.041
+label noise,20% flipped,50,logistic regression,0.887,0.04
+label noise,30% flipped,50,prototype,0.856,0.071
+label noise,30% flipped,50,logistic regression,0.789,0.042
+label noise,40% flipped,50,prototype,0.708,0.105
+label noise,40% flipped,50,logistic regression,0.649,0.079
+large support,k=100,100,prototype,0.919,0.014
+large support,k=100,100,logistic regression,0.963,0.005
+large support,k=200,200,prototype,0.932,0.009
+large support,k=200,200,logistic regression,0.968,0.002
+large support,k=500,500,prototype,0.929,0.007
+large support,k=500,500,logistic regression,0.972,0.003
+large support,k=1000,1000,prototype,0.933,0.003
+large support,k=1000,1000,logistic regression,0.975,0.001
+large support,k=2000,2000,prototype,0.935,0.003
+large support,k=2000,2000,logistic regression,0.976,0.002
+large support,k=5000,5000,prototype,0.934,0.002
+large support,k=5000,5000,logistic regression,0.975,0.001
+large support,"all 20,000 adaptation patches",10000,prototype,0.934,
+large support,"all 20,000 adaptation patches",10000,logistic regression,0.976,

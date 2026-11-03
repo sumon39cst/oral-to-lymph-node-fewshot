@@ -1,0 +1,16 @@
+encoder,source_field_of_view,internal_auroc,external_auroc,external_sensitivity,external_specificity,positive_rate
+efficientnet_b0,full field,0.969,0.436,0.706,0.318,0.694
+efficientnet_b0,1/2 field,0.964,0.288,0.731,0.119,0.806
+efficientnet_b0,1/4 field,0.928,0.376,0.564,0.277,0.643
+efficientnet_b0,1/8 field,0.89,0.376,0.889,0.057,0.916
+efficientnet_b0,all four scales pooled,0.941,0.365,0.72,0.212,0.754
+phikon,full field,0.992,0.397,0.48,0.376,0.552
+phikon,1/2 field,0.987,0.521,0.848,0.246,0.801
+phikon,1/4 field,0.967,0.321,0.929,0.056,0.936
+phikon,1/8 field,0.93,0.643,0.859,0.362,0.749
+phikon,all four scales pooled,0.981,0.448,0.941,0.072,0.935
+phikon_v2,full field,0.993,0.644,0.91,0.282,0.814
+phikon_v2,1/2 field,0.985,0.573,0.862,0.266,0.798
+phikon_v2,1/4 field,0.974,0.466,0.849,0.115,0.867
+phikon_v2,1/8 field,0.938,0.445,0.864,0.195,0.835
+phikon_v2,all four scales pooled,0.981,0.509,0.952,0.138,0.907

@@ -1,0 +1,10 @@
+collections,splits,pairs
+across collections,test - train,14
+across collections,train - train,150
+across collections,train - val,22
+within collection,test - test,24
+within collection,test - train,112
+within collection,test - val,17
+within collection,train - train,701
+within collection,train - val,134
+within collection,val - val,4

@@ -1,0 +1,10 @@
+,0
+tumour_slides,46.0
+sens_median,0.9
+sens_q25,0.804
+sens_q75,0.975
+tumour_slides_sens_below_0_7,8.0
+tumour_slides_sens_below_0_5,3.0
+normal_slides,62.0
+spec_normal_slides_median,0.961
+spec_tumour_slide_normals_median,0.929

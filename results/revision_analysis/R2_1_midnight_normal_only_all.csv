@@ -1,0 +1,131 @@
+encoder,k,rep,method,auroc
+midnight,10,0,normal-only centroid with unlabelled pool,0.8364858498497998
+midnight,10,0,"one-class, normals only",0.730973333392936
+midnight,10,1,normal-only centroid with unlabelled pool,0.9090061002838418
+midnight,10,1,"one-class, normals only",0.7702142249165566
+midnight,10,2,normal-only centroid with unlabelled pool,0.77337968701415
+midnight,10,2,"one-class, normals only",0.6688183432554288
+midnight,10,3,normal-only centroid with unlabelled pool,0.869548384026959
+midnight,10,3,"one-class, normals only",0.8081422175041437
+midnight,10,4,normal-only centroid with unlabelled pool,0.807137612407421
+midnight,10,4,"one-class, normals only",0.7433217477132549
+midnight,10,5,normal-only centroid with unlabelled pool,0.8395005301787998
+midnight,10,5,"one-class, normals only",0.7498240446013622
+midnight,10,6,normal-only centroid with unlabelled pool,0.781418012854597
+midnight,10,6,"one-class, normals only",0.680461020895228
+midnight,10,7,normal-only centroid with unlabelled pool,0.6624978495284654
+midnight,10,7,"one-class, normals only",0.8260849429530892
+midnight,10,8,normal-only centroid with unlabelled pool,0.8525858675795956
+midnight,10,8,"one-class, normals only",0.7235389796647972
+midnight,10,9,normal-only centroid with unlabelled pool,0.9004132395503234
+midnight,10,9,"one-class, normals only",0.7760952489157238
+midnight,10,10,normal-only centroid with unlabelled pool,0.8252940374493412
+midnight,10,10,"one-class, normals only",0.7689530183009915
+midnight,10,11,normal-only centroid with unlabelled pool,0.8735441083950258
+midnight,10,11,"one-class, normals only",0.7665114386984831
+midnight,10,12,normal-only centroid with unlabelled pool,0.894257443216626
+midnight,10,12,"one-class, normals only",0.7716945313675131
+midnight,10,13,normal-only centroid with unlabelled pool,0.888057634907231
+midnight,10,13,"one-class, normals only",0.778095488706488
+midnight,10,14,normal-only centroid with unlabelled pool,0.8179845893282149
+midnight,10,14,"one-class, normals only",0.7469609610775427
+midnight,10,15,normal-only centroid with unlabelled pool,0.8300547511577795
+midnight,10,15,"one-class, normals only",0.7367776139470901
+midnight,10,16,normal-only centroid with unlabelled pool,0.8989954559060156
+midnight,10,16,"one-class, normals only",0.7887874686694686
+midnight,10,17,normal-only centroid with unlabelled pool,0.753340087436525
+midnight,10,17,"one-class, normals only",0.6531177634564016
+midnight,10,18,normal-only centroid with unlabelled pool,0.8234207383569448
+midnight,10,18,"one-class, normals only",0.7490752209866701
+midnight,10,19,normal-only centroid with unlabelled pool,0.8371158781317694
+midnight,10,19,"one-class, normals only",0.7402301239302632
+midnight,50,0,normal-only centroid with unlabelled pool,0.9084168538325685
+midnight,50,0,"one-class, normals only",0.7657868761728714
+midnight,50,1,normal-only centroid with unlabelled pool,0.9299887571953105
+midnight,50,1,"one-class, normals only",0.7697032319780835
+midnight,50,2,normal-only centroid with unlabelled pool,0.8790337698259275
+midnight,50,2,"one-class, normals only",0.7609887707859205
+midnight,50,3,normal-only centroid with unlabelled pool,0.9241020379404832
+midnight,50,3,"one-class, normals only",0.7988046383402151
+midnight,50,4,normal-only centroid with unlabelled pool,0.8689142055586875
+midnight,50,4,"one-class, normals only",0.7572703688668584
+midnight,50,5,normal-only centroid with unlabelled pool,0.92360452060693
+midnight,50,5,"one-class, normals only",0.7776272526873731
+midnight,50,6,normal-only centroid with unlabelled pool,0.948734398687157
+midnight,50,6,"one-class, normals only",0.7907095399512484
+midnight,50,7,normal-only centroid with unlabelled pool,0.9098924400716348
+midnight,50,7,"one-class, normals only",0.7740861637278897
+midnight,50,8,normal-only centroid with unlabelled pool,0.8920723001255526
+midnight,50,8,"one-class, normals only",0.7717695697359854
+midnight,50,9,normal-only centroid with unlabelled pool,0.9010964152180791
+midnight,50,9,"one-class, normals only",0.7646425398036117
+midnight,50,10,normal-only centroid with unlabelled pool,0.9354793436677372
+midnight,50,10,"one-class, normals only",0.7966455664194766
+midnight,50,11,normal-only centroid with unlabelled pool,0.8942286919259805
+midnight,50,11,"one-class, normals only",0.7610306676666716
+midnight,50,12,normal-only centroid with unlabelled pool,0.9303368078193031
+midnight,50,12,"one-class, normals only",0.7900223691041491
+midnight,50,13,normal-only centroid with unlabelled pool,0.8380217787976503
+midnight,50,13,"one-class, normals only",0.7419308802772157
+midnight,50,14,normal-only centroid with unlabelled pool,0.9465205793088052
+midnight,50,14,"one-class, normals only",0.7775128975539712
+midnight,50,15,normal-only centroid with unlabelled pool,0.8583155647857033
+midnight,50,15,"one-class, normals only",0.7551443184284543
+midnight,50,16,normal-only centroid with unlabelled pool,0.889971360814387
+midnight,50,16,"one-class, normals only",0.7482501289482885
+midnight,50,17,normal-only centroid with unlabelled pool,0.8867209649041146
+midnight,50,17,"one-class, normals only",0.7467262005391422
+midnight,50,18,normal-only centroid with unlabelled pool,0.9312086019541417
+midnight,50,18,"one-class, normals only",0.7854102420657664
+midnight,50,19,normal-only centroid with unlabelled pool,0.934663482043709
+midnight,50,19,"one-class, normals only",0.7806862350050894
+midnight,100,0,normal-only centroid with unlabelled pool,0.9307682021845961
+midnight,100,0,"one-class, normals only",0.7694959026710709
+midnight,100,1,normal-only centroid with unlabelled pool,0.939268493762685
+midnight,100,1,"one-class, normals only",0.7675191289336978
+midnight,100,2,normal-only centroid with unlabelled pool,0.8766271067908238
+midnight,100,2,"one-class, normals only",0.7434004812476032
+midnight,100,3,normal-only centroid with unlabelled pool,0.8998427039389798
+midnight,100,3,"one-class, normals only",0.7620622589748054
+midnight,100,4,normal-only centroid with unlabelled pool,0.9065735460864838
+midnight,100,4,"one-class, normals only",0.7701233258360968
+midnight,100,5,normal-only centroid with unlabelled pool,0.9348806117906633
+midnight,100,5,"one-class, normals only",0.7850378603495511
+midnight,100,6,normal-only centroid with unlabelled pool,0.8950054917965268
+midnight,100,6,"one-class, normals only",0.767846168614509
+midnight,100,7,normal-only centroid with unlabelled pool,0.8899662005827441
+midnight,100,7,"one-class, normals only",0.7573384369224334
+midnight,100,8,normal-only centroid with unlabelled pool,0.9299472203307206
+midnight,100,8,"one-class, normals only",0.7751327307082815
+midnight,100,9,normal-only centroid with unlabelled pool,0.906226980529156
+midnight,100,9,"one-class, normals only",0.7676370692280376
+midnight,100,10,normal-only centroid with unlabelled pool,0.8906664770181534
+midnight,100,10,"one-class, normals only",0.749067905658285
+midnight,100,11,normal-only centroid with unlabelled pool,0.9435124542740724
+midnight,100,11,"one-class, normals only",0.7652126753969986
+midnight,100,12,normal-only centroid with unlabelled pool,0.918801695008089
+midnight,100,12,"one-class, normals only",0.7705989271858413
+midnight,100,13,normal-only centroid with unlabelled pool,0.9293470983912467
+midnight,100,13,"one-class, normals only",0.7871812065643626
+midnight,100,14,normal-only centroid with unlabelled pool,0.9299741265385403
+midnight,100,14,"one-class, normals only",0.7710611129333595
+midnight,100,15,normal-only centroid with unlabelled pool,0.9345761581237382
+midnight,100,15,"one-class, normals only",0.7844510740087123
+midnight,100,16,normal-only centroid with unlabelled pool,0.8721443805612434
+midnight,100,16,"one-class, normals only",0.7569544446850219
+midnight,100,17,normal-only centroid with unlabelled pool,0.9473222302949179
+midnight,100,17,"one-class, normals only",0.7721795681408138
+midnight,100,18,normal-only centroid with unlabelled pool,0.9149805384763722
+midnight,100,18,"one-class, normals only",0.7723509708350808
+midnight,100,19,normal-only centroid with unlabelled pool,0.924230488706638
+midnight,100,19,"one-class, normals only",0.7697156725365402
+midnight,1000,0,normal-only centroid with unlabelled pool,0.9268191149100683
+midnight,1000,0,"one-class, normals only",0.7759878790958926
+midnight,1000,1,normal-only centroid with unlabelled pool,0.9193828960982059
+midnight,1000,1,"one-class, normals only",0.7698000913260996
+midnight,1000,2,normal-only centroid with unlabelled pool,0.9247707629595493
+midnight,1000,2,"one-class, normals only",0.7716264383108158
+midnight,1000,3,normal-only centroid with unlabelled pool,0.9296971041030032
+midnight,1000,3,"one-class, normals only",0.7728816296563553
+midnight,1000,4,normal-only centroid with unlabelled pool,0.937540756204546
+midnight,1000,4,"one-class, normals only",0.7784721956168612

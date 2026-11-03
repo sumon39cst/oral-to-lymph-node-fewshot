@@ -1,0 +1,7 @@
+k,standardisation,mean,std
+50,no standardisation,0.781,0.024
+50,pool statistics (as reported),0.911,0.028
+50,statistics of normal patches only,0.551,0.096
+1000,no standardisation,0.781,0.002
+1000,pool statistics (as reported),0.931,0.009
+1000,statistics of normal patches only,0.52,0.121

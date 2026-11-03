@@ -1,0 +1,3 @@
+comparison,k,auroc_logreg_minus_centroid,ci_lo,ci_hi,p_value
+head,1,0.0031,0.0012,0.0049,0.002
+head,2,0.0019,-0.0014,0.005,0.268

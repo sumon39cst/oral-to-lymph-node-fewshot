@@ -1,0 +1,65 @@
+encoder,standardisation,support_centre,evaluation_centre,k,head,auroc_mean,auroc_sd,n_pool
+phikon,pool of both centres (first submission),Radboud,Radboud,10,prototypes,0.898,0.066,20000
+phikon,pool of both centres (first submission),Radboud,Radboud,10,logistic regression,0.916,0.039,20000
+phikon,pool of both centres (first submission),Radboud,Radboud,50,prototypes,0.943,0.006,20000
+phikon,pool of both centres (first submission),Radboud,Radboud,50,logistic regression,0.954,0.008,20000
+phikon,pool of both centres (first submission),Radboud,Utrecht,10,prototypes,0.926,0.029,20000
+phikon,pool of both centres (first submission),Radboud,Utrecht,10,logistic regression,0.939,0.022,20000
+phikon,pool of both centres (first submission),Radboud,Utrecht,50,prototypes,0.946,0.007,20000
+phikon,pool of both centres (first submission),Radboud,Utrecht,50,logistic regression,0.964,0.006,20000
+phikon,pool of the support centre only,Radboud,Radboud,10,prototypes,0.899,0.062,12082
+phikon,pool of the support centre only,Radboud,Radboud,10,logistic regression,0.917,0.038,12082
+phikon,pool of the support centre only,Radboud,Radboud,50,prototypes,0.944,0.007,12082
+phikon,pool of the support centre only,Radboud,Radboud,50,logistic regression,0.954,0.008,12082
+phikon,pool of the support centre only,Radboud,Utrecht,10,prototypes,0.929,0.025,12082
+phikon,pool of the support centre only,Radboud,Utrecht,10,logistic regression,0.941,0.021,12082
+phikon,pool of the support centre only,Radboud,Utrecht,50,prototypes,0.949,0.006,12082
+phikon,pool of the support centre only,Radboud,Utrecht,50,logistic regression,0.965,0.006,12082
+phikon,pool of both centres (first submission),Utrecht,Radboud,10,prototypes,0.911,0.028,20000
+phikon,pool of both centres (first submission),Utrecht,Radboud,10,logistic regression,0.92,0.019,20000
+phikon,pool of both centres (first submission),Utrecht,Radboud,50,prototypes,0.937,0.009,20000
+phikon,pool of both centres (first submission),Utrecht,Radboud,50,logistic regression,0.943,0.008,20000
+phikon,pool of both centres (first submission),Utrecht,Utrecht,10,prototypes,0.917,0.02,20000
+phikon,pool of both centres (first submission),Utrecht,Utrecht,10,logistic regression,0.937,0.015,20000
+phikon,pool of both centres (first submission),Utrecht,Utrecht,50,prototypes,0.942,0.009,20000
+phikon,pool of both centres (first submission),Utrecht,Utrecht,50,logistic regression,0.958,0.007,20000
+phikon,pool of the support centre only,Utrecht,Radboud,10,prototypes,0.907,0.027,7918
+phikon,pool of the support centre only,Utrecht,Radboud,10,logistic regression,0.914,0.023,7918
+phikon,pool of the support centre only,Utrecht,Radboud,50,prototypes,0.935,0.006,7918
+phikon,pool of the support centre only,Utrecht,Radboud,50,logistic regression,0.941,0.009,7918
+phikon,pool of the support centre only,Utrecht,Utrecht,10,prototypes,0.919,0.019,7918
+phikon,pool of the support centre only,Utrecht,Utrecht,10,logistic regression,0.934,0.016,7918
+phikon,pool of the support centre only,Utrecht,Utrecht,50,prototypes,0.943,0.007,7918
+phikon,pool of the support centre only,Utrecht,Utrecht,50,logistic regression,0.958,0.007,7918
+phikon_v2,pool of both centres (first submission),Radboud,Radboud,10,prototypes,0.879,0.073,20000
+phikon_v2,pool of both centres (first submission),Radboud,Radboud,10,logistic regression,0.901,0.047,20000
+phikon_v2,pool of both centres (first submission),Radboud,Radboud,50,prototypes,0.935,0.006,20000
+phikon_v2,pool of both centres (first submission),Radboud,Radboud,50,logistic regression,0.949,0.01,20000
+phikon_v2,pool of both centres (first submission),Radboud,Utrecht,10,prototypes,0.882,0.065,20000
+phikon_v2,pool of both centres (first submission),Radboud,Utrecht,10,logistic regression,0.898,0.053,20000
+phikon_v2,pool of both centres (first submission),Radboud,Utrecht,50,prototypes,0.929,0.021,20000
+phikon_v2,pool of both centres (first submission),Radboud,Utrecht,50,logistic regression,0.956,0.008,20000
+phikon_v2,pool of the support centre only,Radboud,Radboud,10,prototypes,0.88,0.071,12082
+phikon_v2,pool of the support centre only,Radboud,Radboud,10,logistic regression,0.901,0.047,12082
+phikon_v2,pool of the support centre only,Radboud,Radboud,50,prototypes,0.936,0.006,12082
+phikon_v2,pool of the support centre only,Radboud,Radboud,50,logistic regression,0.949,0.01,12082
+phikon_v2,pool of the support centre only,Radboud,Utrecht,10,prototypes,0.886,0.062,12082
+phikon_v2,pool of the support centre only,Radboud,Utrecht,10,logistic regression,0.899,0.053,12082
+phikon_v2,pool of the support centre only,Radboud,Utrecht,50,prototypes,0.932,0.02,12082
+phikon_v2,pool of the support centre only,Radboud,Utrecht,50,logistic regression,0.955,0.009,12082
+phikon_v2,pool of both centres (first submission),Utrecht,Radboud,10,prototypes,0.844,0.073,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Radboud,10,logistic regression,0.867,0.048,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Radboud,50,prototypes,0.9,0.02,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Radboud,50,logistic regression,0.927,0.011,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Utrecht,10,prototypes,0.87,0.04,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Utrecht,10,logistic regression,0.893,0.028,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Utrecht,50,prototypes,0.915,0.02,20000
+phikon_v2,pool of both centres (first submission),Utrecht,Utrecht,50,logistic regression,0.945,0.012,20000
+phikon_v2,pool of the support centre only,Utrecht,Radboud,10,prototypes,0.842,0.076,7918
+phikon_v2,pool of the support centre only,Utrecht,Radboud,10,logistic regression,0.86,0.054,7918
+phikon_v2,pool of the support centre only,Utrecht,Radboud,50,prototypes,0.898,0.02,7918
+phikon_v2,pool of the support centre only,Utrecht,Radboud,50,logistic regression,0.924,0.012,7918
+phikon_v2,pool of the support centre only,Utrecht,Utrecht,10,prototypes,0.871,0.039,7918
+phikon_v2,pool of the support centre only,Utrecht,Utrecht,10,logistic regression,0.89,0.029,7918
+phikon_v2,pool of the support centre only,Utrecht,Utrecht,50,prototypes,0.912,0.019,7918
+phikon_v2,pool of the support centre only,Utrecht,Utrecht,50,logistic regression,0.944,0.013,7918

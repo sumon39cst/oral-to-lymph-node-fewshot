@@ -1,0 +1,13 @@
+head,pool_size,tumour_fraction,mean,std,min,max
+"normal-only centroid (-s0), k = 50 normals",9000,0.0,0.551,0.094,0.418,0.677
+"normal-only centroid (-s0), k = 50 normals",9000,0.01,0.569,0.094,0.436,0.701
+"normal-only centroid (-s0), k = 50 normals",9000,0.1,0.73,0.088,0.561,0.851
+"normal-only centroid (-s0), k = 50 normals",9000,0.25,0.857,0.06,0.715,0.926
+"normal-only centroid (-s0), k = 50 normals",9000,0.5,0.91,0.028,0.832,0.944
+"normal-only centroid (-s0), k = 50 normals",20000,0.50095,0.911,0.028,0.831,0.944
+"one-class, statistics of the 50 normals only",0,,0.797,0.026,0.744,0.841
+"two-class prototypes, k = 50 per class",9000,0.0,0.871,0.04,0.795,0.928
+"two-class prototypes, k = 50 per class",9000,0.01,0.875,0.039,0.8,0.93
+"two-class prototypes, k = 50 per class",9000,0.1,0.903,0.028,0.846,0.937
+"two-class prototypes, k = 50 per class",9000,0.25,0.922,0.02,0.88,0.944
+"two-class prototypes, k = 50 per class",9000,0.5,0.93,0.015,0.9,0.953

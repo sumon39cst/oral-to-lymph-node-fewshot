@@ -1,0 +1,10 @@
+model,family,internal_acc,internal_auroc,external_acc,external_sens,external_spec,external_bal_acc,external_mcc,external_auroc,auroc_gap
+EfficientNet-B0,CNN (ImageNet),0.9062,0.9693,0.5136,0.7064,0.3182,0.5123,0.0267,0.4362,0.5331
+EfficientNet-B0 (96 px),CNN (ImageNet),0.882,0.9468,0.5446,0.8928,0.1917,0.5423,0.1186,0.5863,0.3605
+ConvNeXt V2-T,CNN (ImageNet),0.9102,0.9681,0.5018,0.9504,0.047,0.4987,-0.006,0.4166,0.5515
+Swin V2-T,Hierarchical transformer (ImageNet),0.9123,0.9745,0.3897,0.3905,0.3889,0.3897,-0.2206,0.353,0.6215
+Swin V2-B,Hierarchical transformer (ImageNet),0.9138,0.9721,0.4692,0.663,0.2727,0.4678,-0.0698,0.3889,0.5832
+MambaVision-T,State-space (ImageNet),0.9042,0.9647,0.5132,0.6708,0.3536,0.5122,0.0257,0.4814,0.4833
+DINOv2 ViT-B,General SSL ViT,0.9102,0.9676,0.5313,0.9478,0.1091,0.5285,0.1047,0.5449,0.4227
+Phikon,Pathology foundation model,0.9617,0.9917,0.4284,0.4803,0.3759,0.4281,-0.1446,0.3973,0.5944
+Phikon-v2,Pathology foundation model,0.9627,0.9929,0.598,0.9097,0.2822,0.5959,0.2468,0.6445,0.3484

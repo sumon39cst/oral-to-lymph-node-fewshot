@@ -1,0 +1,5 @@
+k,head,comparison,auroc_difference,ci_lo,ci_hi,p_value
+10,prototypes,midnight - phikon,0.0205,-0.004,0.0453,0.076
+10,logistic regression,midnight - phikon,0.0136,-0.006,0.0329,0.176
+50,prototypes,midnight - phikon,-0.0072,-0.0278,0.0127,0.476
+50,logistic regression,midnight - phikon,0.0005,-0.0107,0.0106,0.916

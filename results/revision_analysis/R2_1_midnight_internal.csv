@@ -1,0 +1,2 @@
+encoder,C,internal_accuracy,internal_auroc,external_accuracy,sensitivity,specificity,positive_rate,external_auroc
+midnight,0.1,0.9778,0.9976,0.4482,0.6653,0.2281,0.7183,0.4122
