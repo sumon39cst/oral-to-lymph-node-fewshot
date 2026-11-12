@@ -2,7 +2,7 @@
 
 Code, data splits, support sets, per-patch predictions and result tables for the manuscript
 *Few-Shot Prototype Adaptation of Frozen Pathology Foundation Models for Cross-Tissue and Cross-Cancer Transfer:
-From Oral Squamous Cell Carcinoma to Breast Cancer Lymph Node Metastases* (submitted to *Cancers*, manuscript cancers-4665402).
+From Oral Squamous Cell Carcinoma to Breast Cancer Lymph Node Metastases* (*Cancers*, accepted; manuscript cancers-4665402).
 
 Version tag `revision-2` matches the revised manuscript.
 
@@ -53,4 +53,4 @@ reported alongside. Uncertainty is given by slide-cluster bootstrap over the eva
 
 ## Access
 
-The repository is private during peer review and will be made public on acceptance.
+The repository is public. Please cite the article in *Cancers* when using this code or data.
